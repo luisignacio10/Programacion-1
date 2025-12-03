@@ -9,4 +9,4 @@ come_frutas = True
 
 print("¿Es mayor de edad?: ", es_mayor)
 print("¿Tiene licencia de conducir?: ", tiene_licencia)
-print("¿Come frutas regularmente?: ", come_frutas)
+print("¿Come frutas regularmente?: ", come_frutas) sad
